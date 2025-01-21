@@ -1,0 +1,35 @@
+KEUNGGULAN DIMILIKI :
+- NATIVE ( ASLI)
+- BOOTSTRAP 4 ( SISTEM MODAL)
+- PHP
+- CSS
+- MYSQL
+
+
+
+1.XAMPP v3.2.4
+
+2."TEXT EDITOR" VISUAL CODE STUDIO.
+
+3 file data zip "kasir"
+
+4. Download the zip file/ download winrar
+
+5. Extract the file and copy "kasir" folder
+
+6. Paste inside root directory/ where you install xammp local disk     C: paste: (for xampp/htdocs, 
+
+7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+8. Create a database with name kasir atau bisa di import ( file db)
+
+6. Import kasir.sql file (given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/kasir
+
+username :  admin	
+password  : admin
+
+"BY GitHub :  DevAnandaMulia"
+
+Catatan "PERINGATAN KERAS" : PRORAM INI HANYA UNTUK PEMBELAJARAN DAN DI KEMBANGKAN ! JANGAN  JUAL DAN JANGAN MENG CLAIM HAK CIPTA AGAR TIDAK MELANGGAR  PERATURAN IT TERIMA KASIH.  

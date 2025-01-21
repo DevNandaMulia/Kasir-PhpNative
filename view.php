@@ -218,8 +218,6 @@ if(isset($_GET['idp'])){
                             <div class="text-muted">Website 2025</div>
                             <div>
                                 <a href='Data' target='_blank'>My Profile</a>
-                                &middot;
-                                <a href='paralax' target='_blank'>My About</a>
                             </div>
                         </div>
                     </div>
